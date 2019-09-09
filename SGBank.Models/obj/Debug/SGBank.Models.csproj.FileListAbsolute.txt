@@ -1,0 +1,6 @@
+C:\Users\Ashym\Downloads\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Ashym\Downloads\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Ashym\Downloads\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\Ashym\Downloads\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ashym\Downloads\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Ashym\Downloads\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
